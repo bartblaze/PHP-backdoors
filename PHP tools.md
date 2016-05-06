@@ -33,4 +33,4 @@
 
 ## Notes
 * Always investigate malware in a secure environment. This means: seperately from your network and in a virtual machine!
-* Some backdoors may be backdoored **(yes, really)**. Don't ever use this for any malicious purposes.
+* Some backdoors may be backdoored *(yes, really)*. Don't ever use this for any malicious purposes.

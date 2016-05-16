@@ -13,3 +13,8 @@ A collection of PHP backdoors. For educational and/or testing purposes only.
 * [webshell](https://github.com/tennc/webshell) - *This is a webshell open source project.*
 * [php-exploit-scripts](https://github.com/mattiasgeniar/php-exploit-scripts/) - *A collection of PHP exploit scripts, found when investigating hacked servers.*
 * [php-webshells](https://github.com/JohnTroony/php-webshells) - *Common php webshells.*
+
+
+
+###### Other information:
+Read my blog post on '[C99Shell not dead](http://bartblaze.blogspot.be/2015/03/c99shell-not-dead.html)' for more information about PHP backdoors (and in particular *c99Shell*, which you can also find in this repository).

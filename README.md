@@ -10,5 +10,6 @@ A collection of PHP backdoors. For educational and/or testing purposes only.
 
 
 ###### Other repos:
-* [webshell](https://github.com/tennc/webshell)
-* [php-exploit-scripts](https://github.com/mattiasgeniar/php-exploit-scripts/)
+* [webshell](https://github.com/tennc/webshell) - *This is a webshell open source project.*
+* [php-exploit-scripts](https://github.com/mattiasgeniar/php-exploit-scripts/) - *A collection of PHP exploit scripts, found when investigating hacked servers.*
+* [php-webshells](https://github.com/JohnTroony/php-webshells) - *Common php webshells.*

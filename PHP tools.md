@@ -11,6 +11,7 @@
 ###### *Offline*:
 * [PHP Converter](http://www.kahusecurity.com/downloads/PHPConverter_v0.3.7z)
 * [PHP Script Decoder](http://www.kahusecurity.com/downloads/PHPScriptDecoder_v0.1.7z)
+* *Note*: check out KahuSecurity's site [directly](http://www.kahusecurity.com) for latest versions of these tools.
 
 
 ##### **PHP beautifiers**:

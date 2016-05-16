@@ -17,4 +17,10 @@ A collection of PHP backdoors. For educational and/or testing purposes only.
 
 
 ###### Other information:
-Read my blog post on '[C99Shell not dead](http://bartblaze.blogspot.be/2015/03/c99shell-not-dead.html)' for more information about PHP backdoors (and in particular *c99Shell*, which you can also find in this repository).
+Read my blog post on '[C99Shell not dead](http://bartblaze.blogspot.be/2015/03/c99shell-not-dead.html)' for more information about PHP backdoors (and in particular *c99Shell*, which you can also find in this repository). You can also follow me on [Twitter](https://twitter.com/bartblaze).
+
+
+# License
+[![License](http://i.imgur.com/9811oXC.png?2)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [bartblaze](https://github.com/bartblaze) has waived all copyright and related or neighboring rights to this work. He makes no warranties about the work, and disclaims liability for all uses of the work.

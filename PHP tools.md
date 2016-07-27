@@ -3,7 +3,7 @@
 ##### **PHP deobfuscators**:
 
 ###### *Online*:
-* [FOPO PHP Deobfuscator](https://glot.io/snippets/ee5mzg3zf1)
+* FOPO PHP Deobfuscator [ver. 0.1](https://glot.io/snippets/ee5mzg3zf1) | [ver. 0.2](https://glot.io/snippets/efruafhnez)
 * [Sucuri's PHP decoder](http://ddecode.com/phpdecoder/)
 * [Toolki's PHP decoder](http://toolki.com/en/php-decoder/)
 * [unPHP](https://www.unphp.net/)

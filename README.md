@@ -9,7 +9,7 @@ A collection of PHP backdoors. For educational and/or testing purposes only.
 
 
 
-###### Other repos:
+##### Other repos
 * [webshell](https://github.com/tennc/webshell) - *This is a webshell open source project.*
 * [php-exploit-scripts](https://github.com/mattiasgeniar/php-exploit-scripts/) - *A collection of PHP exploit scripts, found when investigating hacked servers.*
 * [php-webshells](https://github.com/JohnTroony/php-webshells) - *Common php webshells.*
@@ -18,8 +18,16 @@ A collection of PHP backdoors. For educational and/or testing purposes only.
 
 
 
-###### Other information:
-Read my blog post on '[C99Shell not dead](http://bartblaze.blogspot.be/2015/03/c99shell-not-dead.html)' for more information about PHP backdoors (and in particular *c99Shell*, which you can also find in this repository). You can also follow me on [Twitter](https://twitter.com/bartblaze).
+##### Other information
+Read my blog post on '[C99Shell not dead](https://bartblaze.blogspot.com/2015/03/c99shell-not-dead.html)' for more information about PHP backdoors (and in particular *c99Shell*, which you can also find in this repository). You can also follow me on [Twitter](https://twitter.com/bartblaze).
+
+
+##### Detection
+If you're trying to detect webshells like the ones mentioned in this repository, you may want to user Yara and scan your web server with the following Yara rules specifically for webshells:
+[Yara-rules/Webshells](https://github.com/Yara-Rules/rules/tree/master/Webshells)
+
+Alternativaly, have a look at the [disinfection tips](https://bartblaze.blogspot.com/2015/03/c99shell-not-dead.html#disinfection) provided in my blog post.
+
 
 
 # License

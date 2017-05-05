@@ -2,14 +2,14 @@
 A collection of PHP backdoors. For educational and/or testing purposes only.
 
 
-##### Notes
+#### Notes
 * The [deobfuscated folder](Deobfuscated) does not necessarily contain deobfuscated versions of the backdoors you can find in the [obfuscated folder](Obfuscated). To deobfuscate those and other tricks, Check out the [PHP tools](PHP%20tools.md) section.
 * Always investigate malware in a secure environment. This means: separately from your network and in a virtual machine!
 * Some backdoors may be backdoored *(yes, really)*. Don't ever use this for any malicious purposes.
 
 
 
-##### Other repos
+#### Other repos
 * [webshell](https://github.com/tennc/webshell) - *This is a webshell open source project.*
 * [php-exploit-scripts](https://github.com/mattiasgeniar/php-exploit-scripts/) - *A collection of PHP exploit scripts, found when investigating hacked servers.*
 * [php-webshells](https://github.com/JohnTroony/php-webshells) - *Common php webshells.*
@@ -18,11 +18,11 @@ A collection of PHP backdoors. For educational and/or testing purposes only.
 
 
 
-##### Other information
+#### Other information
 Read my blog post on '[C99Shell not dead](https://bartblaze.blogspot.com/2015/03/c99shell-not-dead.html)' for more information about PHP backdoors (and in particular *c99Shell*, which you can also find in this repository). You can also follow me on [Twitter](https://twitter.com/bartblaze).
 
 
-##### Detection
+#### Detection
 If you're trying to detect webshells like the ones mentioned in this repository, you may want to use [Yara](https://github.com/VirusTotal/yara) and scan your web server with the following Yara rules specifically for webshells:
 [Yara-rules/Webshells](https://github.com/Yara-Rules/rules/tree/master/Webshells)
 

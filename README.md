@@ -32,7 +32,7 @@ Read my blog post on '[C99Shell not dead](https://bartblaze.blogspot.com/2015/03
 
 #### Detection
 If you're trying to detect webshells like the ones mentioned in this repository, you may want to use [Yara](https://github.com/VirusTotal/yara) and scan your web server with the following Yara rules specifically for webshells:
-[Yara-rules/Webshells](https://github.com/Yara-Rules/rules/tree/master/Webshells)
+[Yara-Rules/webshells](https://github.com/Yara-Rules/rules/tree/master/webshells)
 
 Alternatively, have a look at the [disinfection tips](https://bartblaze.blogspot.com/2015/03/c99shell-not-dead.html#disinfection) provided in my blog post.
 

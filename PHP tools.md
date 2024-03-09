@@ -4,8 +4,7 @@
 
 ###### *Online*:
 * FOPO PHP Deobfuscator [ver. 0.1](https://glot.io/snippets/ee5mzg3zf1) | [ver. 0.2](https://glot.io/snippets/efruafhnez)
-* [Sucuri's PHP decoder](http://ddecode.com/phpdecoder/)
-* [Toolki's PHP decoder](http://toolki.com/en/php-decoder/)
+* [Quttera's PHP decoder](https://malwaredecoder.quttera.com/)
 * [unPHP](https://www.unphp.net/)
 
 ###### *Offline*:
@@ -16,18 +15,14 @@
 
 
 ##### **PHP beautifiers**:
-* [Dan's PHP beautify](http://www.cleancss.com/php-beautify/)
-* [PHP beautifier](http://phpbeautifier.com/)
-* [PHP formatter](http://beta.phpformatter.com/)
+* [Dan's PHP beautify](https://www.cleancss.com/php-beautify/)
+* [CyberChef Generic Beautify](https://gchq.github.io/CyberChef/#recipe=Generic_Code_Beautify())
 
 
 ##### **PHP testers**:
 
 ###### *Online*:
-* [PHP Editor](http://www.runphponline.com/)
-* [PHPFiddle](http://phpfiddle.org/)
-* [PHP Sandbox](http://sandbox.onlinephpfunctions.com/)
-* [PHP Tester](http://phptester.net/)
+* [PHP Sandbox / PHP Online](https://onlinephp.io/)
 
 ###### *Offline*:
 * [EasyPHP](http://www.easyphp.org/)
